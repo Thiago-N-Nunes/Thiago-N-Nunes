@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Thiago Nunes
 **`Cientista de dados em formação`** 
 
-Me chamo Thiago Nesi Nunes, tenho 23 anos e sou natural de São Paulo. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na FIT. Sou um entusiasta de Python🐍 e me interesso muito pelo mercado de Ciencia e Analise de dados, gosto muito de fazer automações também.
+*Me chamo Thiago Nesi Nunes, tenho 23 anos e sou natural de São Paulo. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na FIT. Sou um entusiasta de Python🐍 e me interesso muito pelo mercado de Ciencia e Analise de dados, gosto muito de fazer automações também.*
 ---
 ## 💻 Linguagens e Tecnologias
 
