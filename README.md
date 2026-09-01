@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Thiago Nunes
-**`Cientista de dados em formação`** 
+**`Analista de dados em formação`** 
 
 ##### Me chamo Thiago Nesi Nunes, tenho 23 anos e sou natural de São Paulo. Atualmente estou cursando Banco de Dados na Uninove. Sou um entusiasta de Python🐍 e me interesso muito pelo mercado de  Analise de dados, gosto muito de fazer automações também.
 ---
